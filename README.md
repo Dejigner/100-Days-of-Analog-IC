@@ -15,9 +15,10 @@ The 100 days challenge is just a start to kickstart and will continue after that
 - Documentation
 
 ## Note on AI usage:
-AI usage will be limited to prohibited depending on application. In writing documentation, learning, simulating or any learning process step AI will be prohibited until I pass those first steps and build solid foundations properly. Only then, AI will be a great tool, but I have to learn first.
-The only allowed AI usage is when it doesn't interfere with the main learning process, like checking for grammar errors using Grammarly.
-AI is allowed to edit commit messages, autocreate them, depending on context. Since this doesn't interfere with me learning about Analog IC, and will save some time and will put clarity for the reader, for things I already know.
+- AI usage will be limited to prohibited depending on application. In writing documentation, learning, simulating or any learning process step AI will be prohibited until I pass those first steps and build solid foundations properly. Only then, AI will be a great tool, but I have to learn first.
+- The only allowed AI usage is when it doesn't interfere with the main learning process, like checking for grammar errors using Grammarly.
+- AI is allowed to edit commit messages, autocreate them, depending on context. Since this doesn't interfere with me learning about Analog IC, and will save some time and will put clarity for the reader, for things I already know.
+- It can also be used in suggesting better learning approaches and resources. It may be used in end results validation, probably until finding a mentor and working on actual projects.
 
 ## PS There are way other things that I will learn on the way including but not limited to:
 - Learning how to properly write this README with no AI auto generation
