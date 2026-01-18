@@ -31,4 +31,16 @@ The 100 days challenge is just a start to kickstart and will continue after that
 
 ## Book Reading Progress
 
-![Neamen Progress](https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[1,14],backgroundColor:['%234caf50','%23e0e0e0'],borderWidth:0}]},options:{cutoutPercentage:80,rotation:-1.57,circumference:6.28,legend:{display:false},plugins:{doughnutlabel:{labels:[{text:'1/15',font:{size:20,weight:'bold'}},{text:'Chapters',font:{size:10}}]}}}})
+<table>
+  <tr>
+    <td align="center">
+      <img src="neamen.svg" width="120" alt="Neamen Progress"/>
+      <br>
+    </td>
+    
+    <td align="center">
+      <img src="https://via.placeholder.com/150x180/000000/333333?text=Next+Book" width="120" alt="Next Book"/>
+      <br>
+    </td>
+  </tr>
+</table>
