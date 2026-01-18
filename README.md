@@ -38,7 +38,7 @@ The 100 days challenge is just a start to kickstart and will continue after that
       <br>
     </td>
     
-    <td align="center">
+  <td align="center">
       <img src="https://via.placeholder.com/150x180/000000/333333?text=Next+Book" width="120" alt="Next Book"/>
       <br>
     </td>
