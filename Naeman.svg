@@ -1,0 +1,17 @@
+<svg width="150" height="180" viewBox="0 0 150 180" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="75" cy="75" r="60" fill="none" stroke="#2d2d2d" stroke-width="15" />
+
+  <circle cx="75" cy="75" r="60" fill="none" stroke="#7B68EE" stroke-width="15"
+          stroke-dasharray="25.1 377" stroke-linecap="round" transform="rotate(-90 75 75)" />
+
+  <text x="50%" y="45%" text-anchor="middle" dy=".3em" font-family="Arial, sans-serif" font-weight="bold" font-size="28" fill="white">
+    1
+  </text>
+  <text x="50%" y="62%" text-anchor="middle" dy=".3em" font-family="Arial, sans-serif" font-size="14" fill="#888">
+    / 15
+  </text>
+
+  <text x="50%" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#e0e0e0">
+    Neamen
+  </text>
+</svg>
