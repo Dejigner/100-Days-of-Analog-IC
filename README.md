@@ -34,7 +34,7 @@ The 100 days challenge is just a start to kickstart and will continue after that
 <table>
   <tr>
     <td align="center">
-      <img src="neamen.svg" width="120" alt="Neamen Progress"/>
+      <img src="Naeman.svg" width="120" alt="Neamen Progress"/>
       <br>
     </td>
     
