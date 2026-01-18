@@ -27,3 +27,8 @@ The 100 days challenge is just a start to kickstart and will continue after that
 - Time managemnt and commitment to contribute or learn something new for a long time span.
 - Enhancin writing and English skills over all
 - Communication skills, where I will know how to communicate my thoughts and ideas through words and applications
+
+
+## Book Reading Progress
+
+![Neamen Progress](https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[1,14],backgroundColor:['%234caf50','%23e0e0e0'],borderWidth:0}]},options:{cutoutPercentage:80,rotation:-1.57,circumference:6.28,legend:{display:false},plugins:{doughnutlabel:{labels:[{text:'1/15',font:{size:20,weight:'bold'}},{text:'Chapters',font:{size:10}}]}}}})
